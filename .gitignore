@@ -1,0 +1,12 @@
+bin/
+
+CameronNaughtsCrosses/obj
+CameronNaughtsCrosses.Tests/obj
+.idea
+
+
+
+*.user
+.vs/
+
+**/.DS_Store
